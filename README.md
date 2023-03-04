@@ -1,0 +1,3 @@
+**CSharp-Arrays-Examples**
+
+This repository contains various array examples using the C# programming language. The examples cover different aspects of the C# language and various application scenarios. Examples include the use of multi-dimensional arrays, a deck of cards application, generating random numbers, class exercises, and many more topics. These examples can be used as a useful resource for those who want to learn arrays for C# programming language.

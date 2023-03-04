@@ -1,0 +1,7 @@
+C:\Users\islam\Desktop\Test\InitArray\bin\Debug\InitArray.exe.config
+C:\Users\islam\Desktop\Test\InitArray\bin\Debug\InitArray.exe
+C:\Users\islam\Desktop\Test\InitArray\bin\Debug\InitArray.pdb
+C:\Users\islam\Desktop\Test\InitArray\obj\Debug\InitArray.csproj.AssemblyReference.cache
+C:\Users\islam\Desktop\Test\InitArray\obj\Debug\InitArray.csproj.CoreCompileInputs.cache
+C:\Users\islam\Desktop\Test\InitArray\obj\Debug\InitArray.exe
+C:\Users\islam\Desktop\Test\InitArray\obj\Debug\InitArray.pdb
